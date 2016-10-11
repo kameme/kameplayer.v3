@@ -1,0 +1,38 @@
+﻿name: kameplayer
+main: kame.kameplayer.Main
+version: 3.26.11
+
+commands:
+  commandblock:
+    aliases: [commandb, cmdb, cb]
+  kameplayer:
+  attack:
+  entityrun:
+    aliases: [dropmonster, cmdmonster, commandmonster, cm]
+  regioncopy:
+    aliases: [copy, rcopy, regcopy, pos]
+  vec:
+  armor:
+  drop:
+  entity:
+  firework:
+  explode:
+  itemrun:
+  itemfix:
+  itemtp:
+  respawn:
+  broadcast:
+  guidelines:
+  tpto:
+  addlore:
+  vacuum:
+  tellbar:
+  invclose:
+    aliases: [inventoryclose]
+  trig:
+  pull:
+  pulse:
+  mods:
+permissions:
+  kameplayer:
+    default: op
